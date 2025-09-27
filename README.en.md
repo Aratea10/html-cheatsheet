@@ -59,8 +59,13 @@ A quick reference guide to essential HTML elements, structure, and best practice
 | `<meta charset="UTF-8">` | Specifies character encoding |
 | `<meta name="viewport" content="width=device-width, initial-scale=1.0">` | Responsive viewport |
 | `link rel="stylesheet" href="styles.css">` | Link to external CSS |
-| `<title> | Page title (shown in browser tab) |
+| `<title>` | Page title (shown in browser tab) |
 
 ## 💡 Best Practices
+- Always use semantic HTML elements (`<article>`, `<nav>`, etc.) for better accessibility and SEO.
+- Include `<alt>` attributes for all images.
+- Use lowercase tag and attribute names.
+- Close all tagas properly (e.g., `<br/>`is optional in HTML5, but self-closing is fine).
+- Validate your HTML with the [W3C Validator](https://validator.w3.org/).
 
 > 💡 **Tip**: For official documentation, visit [MDN Web Docs – HTML](https://developer.mozilla.org/en-US/docs/Web/HTML).
