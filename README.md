@@ -7,5 +7,5 @@
 </p>
 
 Choose your language / Elige tu idioma:
-- [English version](HTML-CHEATSHEET.en.md)
-- [Versión en español](HTML-CHEATSHEET.es.md)
+- [English version](README.en.md)
+- [Versión en español](README.es.md)
