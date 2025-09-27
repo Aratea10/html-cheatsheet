@@ -68,4 +68,4 @@ Una guía rápida de referencia con los elementos esenciales de HTML, su estruct
 - Cierra correctamente las etiquetas (en HTML5, `<br>`es válido, pero `<br/>` también se acepta).
 - Valida tu HTML con el [Validador del W3C](https://validator.w3.org/).
 
-> 💡 **Tip**: Consejo: Para documentación oficial, visita [MDN Web Docs – HTML](https://developer.mozilla.org/es/docs/Web/HTML).
+> 💡 **Consejo**: Para documentación oficial, visita [MDN Web Docs – HTML](https://developer.mozilla.org/es/docs/Web/HTML).
