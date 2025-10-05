@@ -130,7 +130,7 @@ Una guía rápida de referencia con los elementos esenciales de HTML, su estruct
 | `<base href="...">` | URL base para todos los enlaces relativos  |
 <br>
 
-## Atributos Globales
+## 🔠 Atributos Globales
 | ATRIBUTOS | DESCRIPCIÓN |
 |------|------------|
 | `id` | Identificador único para un elemento |
@@ -145,7 +145,7 @@ Una guía rápida de referencia con los elementos esenciales de HTML, su estruct
 | `contenteditable` | Permite editar el contenido del elemento |
 <br>
 
-## Elementos Obsoletos (Evitar)
+## 🌐 Elementos Obsoletos (Evitar)
 | ETIQUETA | DESCRIPCIÓN |
 |------|------------|
 | `<center>` | Usa CSS: `text-align: center;`en su lugar |
@@ -168,7 +168,7 @@ Una guía rápida de referencia con los elementos esenciales de HTML, su estruct
 - Estructura tus documentos con una jerarquía de encabezados clara (h1, h2, etc.).
 <br>
 
-## Glosario
+## 📚 Glosario
 - **Accesibilidad**: práctica de hacer sitios web utilizables por personas con diversas capacidades y discapacidades.
 - **Atributo**: información adicional proporcionada en una etiqueta HTML (ej. href, src, class).
 - **CDN**: Content Delivery Network. Red de servidores que entregan contenido web de forma más eficiente.
